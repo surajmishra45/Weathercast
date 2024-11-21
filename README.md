@@ -1,1 +1,1 @@
-# Weathercast
+A user-friendly weather application that provides real-time weather updates, including temperature, humidity, wind speed, and a 7-day forecast. Built with a modern design using HTML, CSS, JavaScript, and API integration, it offers a seamless experience for users to check weather conditions for any location.
